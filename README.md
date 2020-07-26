@@ -5,5 +5,9 @@ This is a wordpress plugin which you can add  to your live wordpress website. Th
 * This plugin adds a tag list page which shows like amount  of tags and how many posts a tag holds in descending order.
 * This plugin adds a widget, which shows like amounts of posts with their title in descending order.
 
-Note= If you want to learn how to use this plugin you can use xxx.xxx file.
+### How to use the plugin
+1) Click wordpress admin menu
+2) Click plugins 
+3) Activate the plugin named Like Button Plugin
+4) For adding taglist click pages in wordpress admin menu
 
