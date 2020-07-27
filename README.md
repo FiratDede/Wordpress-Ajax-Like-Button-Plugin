@@ -17,5 +17,8 @@ This is a wordpress plugin which you can add  to your live wordpress website. Th
 Then click publish to publish this page
 8) This is the apperance of this tag list in front-end:
 <img src="images/Ekran Görüntüsü (10).png"> <br>
-
+Now you have successfully added this taglist to a page
+9)For adding the widget , click appearance in wordpress admin menu then click on widgets.
+10) You will see a widget whose name is Post Likes Widget then drag it to where you want to see in your webpage.
+11) You will get an output like that:
 
