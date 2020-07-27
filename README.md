@@ -20,8 +20,8 @@ Then click publish to publish this page
 <img src="images/Ekran Görüntüsü (10).png"> <br>
 Now you have successfully added this taglist to a page
 9)For adding the widget , click appearance in wordpress admin menu then click on widgets.
-10) You will see a widget whose name is Post Likes Widget then drag it to where you want to see in your webpage.
-11) You will get an output like that: <br>
+ 10) You will see a widget whose name is Post Likes Widget then drag it to where you want to see in your webpage.
+ 11) You will get an output like that: <br>
 <img src="images/Ekran Görüntüsü (11).png"> <br>
 Note= Here the widget is shown inside a black rectangle.
 
