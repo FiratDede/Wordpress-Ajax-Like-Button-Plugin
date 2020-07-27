@@ -24,4 +24,5 @@ Now you have successfully added this taglist to a page
  11) You will get an output like that: <br>
 <img src="images/Ekran Görüntüsü (11).png"> <br>
 Note= Here the widget is shown inside a black rectangle.
+Note= For liking a post you have to login. Otherwise, when you like a post, you get a warning.
 
