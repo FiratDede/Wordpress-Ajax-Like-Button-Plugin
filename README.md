@@ -11,15 +11,15 @@ This is a wordpress plugin which you can add  to your live wordpress website. Th
 3) Activate the plugin named Like Button Plugin.When you activate your plugin you will see a like button on your each post in your website like that:
 <img src="images/Ekran Görüntüsü (7).png"> <br>
 4) For adding taglist click Pages in wordpress admin menu
-5) Click add new button for adding new page
-6)You can give whatever you want to your page title
-7)Here is important, you have to paste "[__like_button_short_code_of_show_tag_list]" in a block to see tag list in front end. You can create a page like that: <br>
+5) Click add new button for adding new page 
+6) You can give whatever you want to your page title <br>
+7) Here is important, you have to paste "[__like_button_short_code_of_show_tag_list]" in a block to see tag list in front end. You can create a page like that: <br>
 <img src="images/Ekran Görüntüsü (9).png"> <br>
 Then click publish to publish this page
 8) This is the apperance of this tag list in front-end:
 <img src="images/Ekran Görüntüsü (10).png"> <br>
 Now you have successfully added this taglist to a page
-9)For adding the widget , click appearance in wordpress admin menu then click on widgets.
+9) For adding the widget , click appearance in wordpress admin menu then click on widgets.
  10) You will see a widget whose name is Post Likes Widget then drag it to where you want to see in your webpage.
  11) You will get an output like that: <br>
 <img src="images/Ekran Görüntüsü (11).png"> <br>
