@@ -13,5 +13,5 @@ This is a wordpress plugin which you can add  to your live wordpress website. Th
 5) Click add new button for adding new page
 6)You can give whatever you want to your page title
 7)Here is important, you have to paste "[__like_button_short_code_of_show_tag_list]" in a block to see tag list in front end. 
-
+https://github.com/FiratDede/Wordpress-Like-Button-Plugin/blob/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(8).png
 
