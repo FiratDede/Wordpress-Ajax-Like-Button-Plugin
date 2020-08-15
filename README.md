@@ -13,7 +13,7 @@ This is a wordpress plugin which you can add  to your live wordpress website. Th
 4) For adding taglist click Pages in wordpress admin menu
 5) Click add new button for adding new page 
 6) You can give whatever you want to your page title <br>
-7) Here is important, you have to paste "[__like_button_short_code_of_show_tag_list]" in a block to see tag list in front end. You can create a page like that: <br>
+7) Here is important, you have to paste "[fd_ajax_like_button_show_tags_with_likes]" in a block to see tag list in front end. You can create a page like that: <br>
 <img src="images/Ekran Görüntüsü (9).png"> <br>
 Then click publish to publish this page
 8) This is the apperance of this tag list in front-end:
@@ -24,5 +24,5 @@ Now you have successfully added this taglist to a page
  11) You will get an output like that: <br>
 <img src="images/Ekran Görüntüsü (11).png"> <br>
 Note= Here the widget is shown inside a black rectangle.<br>
-Note= For liking a post you have to login. Otherwise, when you like a post, you get a warning.
+Note= For liking a post you have to login. 
 
