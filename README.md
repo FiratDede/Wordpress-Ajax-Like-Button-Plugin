@@ -3,8 +3,8 @@ This is a wordpress plugin which you can add  to your live wordpress website. Th
 ### Functionality <br>
 * This plugin adds a like button to every post in the wordpress site. When you click the button, you can like the post. Then the like button's color becomes green, it shows that the post is liked. When you click the like button again, you can remove the like of the post. Then like button becomes black.
 * This plugin adds a tag list which shows like amount  of tags and how many posts a tag holds in descending order to a page.
-* This plugin adds a widget, which shows like amounts of posts with their title in descending order. This widget shows 10 most liked posts.
-
+* This plugin adds a widget, which shows like amounts of posts with their title in descending order. This widget shows 10 most liked posts. However you can select how many most
+ liked posts you see using Widgets page in wordpress admin.
 ### How to use the plugin
 1) Click wordpress admin menu
 2) Click plugins 
