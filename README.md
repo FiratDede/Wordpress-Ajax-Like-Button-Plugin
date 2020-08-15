@@ -8,7 +8,7 @@ This is a wordpress plugin which you can add  to your live wordpress website. Th
 ### How to use the plugin
 1) Click wordpress admin menu
 2) Click plugins 
-3) Activate the plugin named Like Button Plugin.When you activate your plugin you will see a like button on your each post in your website like that:
+3) Activate the plugin named Ajax Like Button Plugin.When you activate your plugin you will see a like button on your each post in your website like that:
 <img src="images/Ekran Görüntüsü (7).png"> <br>
 4) For adding taglist click Pages in wordpress admin menu
 5) Click add new button for adding new page 
